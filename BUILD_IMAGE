@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker build -t="guyton/puppetmaster:3.7.4" . && \
-docker tag -f guyton/puppetmaster:3.7.4 guyton/puppetmaster:latest
+docker build -t="guyton/puppetmaster:3.8.7" . && \
+docker tag -f guyton/puppetmaster:3.8.7 guyton/puppetmaster:latest
 
